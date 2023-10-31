@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yiqi Xue"
 title_separator          : "-"
 name                     : &name "Yiqi Xue"
-description              : &description "Graduate student @ USC | Former Software Developer @ Huawei"
+description              : &description "Graduate student @ USC | Former Software Developer @ Huawei Technologies"
 url                      : https://onexyq.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "onexyq.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiqi Xue"
   avatar           : "selfie.png"
-  bio              : "Graduate student @ USC | Former Software Developer @ Huawei"
+  bio              : "Graduate student @ USC | Former Software Developer @ Huawei Technologies"
   location         : "Los Angeles, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

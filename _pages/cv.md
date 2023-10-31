@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Here is my resume.](http://Onexyq.github.io/files/resume.pdf)
+Here is my [resume](http://Onexyq.github.io/files/resume.pdf).
