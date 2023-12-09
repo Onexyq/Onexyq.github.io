@@ -1,6 +1,6 @@
 ---
 title: "NoteWise"
-excerpt: "An AI-based mindmap-generating application<br/><img src='/images/NoteWise.png'>"
+excerpt: "An AI-based mindmap-generating application. <br/><img src='/images/NoteWise.png'>"
 collection: portfolio
 ---
 
