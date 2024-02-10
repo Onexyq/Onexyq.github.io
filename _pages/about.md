@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
- I’m Yiqi Xue, a first-year graduate student at the University of Southern California (USC) majoring in computer science, currently taking up Courses: Introduction to Programming Systems Design and Database systems. My journey in the world of technology has been marked by a passion for backend development, databases, and the fascinating realm of big data.
+ I’m a first-year graduate student at the University of Southern California majoring in computer science. My journey in the world of technology has been marked by a passion for web applicaions, infrastucture softwares, and the fascinating realm of databases.
 
-My professional experiences at Huawei Technologies Ltd as a database developer and at Wellintech Ltd as a backend engineer have been instrumental in shaping my skills and perspectives. While at Huawei, I delved into the intricacies of database development, where I honed my expertise in designing and optimizing data solutions. At Wellintech, my role as a backend engineer allowed me to contribute to the development of robust systems and applications, cementing my commitment to the field of backend development.
+My professional experiences at Huawei Technologiesas a database developer and at WellinTech as a backend software engineer have been instrumental in shaping my skills and perspectives. While at Huawei, I delved into the intricacies of database kernel, where I honed my expertise in designing and optimizing data solutions. At WellinTech, my role as a backend engineer allowed me to contribute to the development of robust systems and data-driven applications, cementing my commitment to the field of backend development.
 
 One of my core values is a dedication to writing high-quality code. I believe that clean, efficient, and well-documented code is the foundation of a successful software project. My experiences have reinforced my commitment to this principle, as I’ve seen firsthand how code quality impacts the performance and maintainability of a system.
 
